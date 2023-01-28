@@ -14,6 +14,8 @@ I am interested in a career in data analytics, so I wanted to take the Telling S
 
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt.md)
+<iframe src="https://data.oecd.org/chart/6XUH" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XUH" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018 – 2019</a></iframe>
+
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
