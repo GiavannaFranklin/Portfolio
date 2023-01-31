@@ -9,7 +9,7 @@ Below is a visualization of the government debt-to-GDP ratio of OECD countries o
 <div class="flourish-embed flourish-chart" data-src="visualisation/12578678"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # General Government Debt for OECD Countries Has Been Increasing
-Below is a visualization of the government debt-to-GDP ratio for OECD countries, on average, from 2007 to 2021.
+Below is a visualization of the government debt-to-GDP ratio of OECD countries, on average, from 2007 to 2021.
 <div class="flourish-embed flourish-chart" data-src="visualisation/12596087"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 The data for the data visualizations on this page comes from the OECD website. It gives data on the  general government debt-to-GDP ratio, which is a measure of debt as a percentage of GDP.  On the OECD website, this ratio is included as an indicator for government finance sustainability. The first method of data visualization of the government debt is a bar chart, the second one is a grid of line charts, and the third one is an area chart. For the first graph, a bar chart is used to compare countries' debt in addition to the OECD average and OECD total debt for just one year. For this one, it is easier to compare countries from each other. The second data visualization,  the grid of line charts, also includes data for each country and overall OECD debt but has multiple years included, so each country/overall OECD has its own line chart for debt over the years. 
