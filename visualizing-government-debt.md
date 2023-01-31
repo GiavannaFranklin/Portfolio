@@ -9,3 +9,4 @@ Below is a visualization of government debt to GDP ratio of OECD countries overt
 <div class="flourish-embed flourish-chart" data-src="visualisation/12578678"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # General Government Debt for OECD Countries Has Been Increasing
+<div class="flourish-embed flourish-chart" data-src="visualisation/12596087"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
