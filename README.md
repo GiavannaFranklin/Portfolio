@@ -16,7 +16,7 @@ I am interested in a career in data analytics, so I wanted to take the Telling S
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt.md)
 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 
 ## Final project
