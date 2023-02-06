@@ -1,4 +1,4 @@
-| [home page](README.md) | [visualizing debt](visualizing-government-debt.md)|
+| [home page](README.md) | [visualizing debt](visualizing-government-debt.md) |
 
 # Original Data Visualization
 Text here!
@@ -8,6 +8,11 @@ Text here!
 
 
 # Sketching Out a Solution
+
+
+<img width="696" alt="revised-data-viz-1-assign4" src="https://user-images.githubusercontent.com/123040438/217102360-73bed610-3edf-4a1a-9abe-db9ec5dc9270.png">
+
+<img width="688" alt="2nd-revised-data-viz-assgn4" src="https://user-images.githubusercontent.com/123040438/217102875-3300f472-9a4f-4577-be9b-a1991be21004.png">
 
 
 # Testing the Solution
