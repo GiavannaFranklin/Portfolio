@@ -1,6 +1,6 @@
 | [home page](README.md) | [visualizing debt](visualizing-government-debt.md) |
 
-# Critque by Design
+# Critique by Design
 
 ## Original Data Visualization
 
