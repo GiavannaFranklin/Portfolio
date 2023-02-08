@@ -33,6 +33,7 @@ Below is my redesign of the chart using Tableau. I decided to aggregate the data
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 Next, I shared my sketch and the Tableau visualization to classmates. For both charts, they were not clear on the main idea or what the visualizations were trying to say. One of them said one would expect those with the most need would receive the most assistance. This made me think about how the chart did not seem insightful. For the sketch, one of them also thought the gray line from the time series sketch at first looked like another category. For the bar chart, they also suggested just keeping color for the bar that represents the less than 30% AMI group to emphasize that group more if I wanted to focus on that.
 
 # Building the Solution
