@@ -20,7 +20,7 @@ I am interested in a career in data analytics, so I wanted to take the Telling S
 
 
 ## Final project
-[Part I](final-project-part-one)
+[Part I](final-project-part-one.md)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
 
