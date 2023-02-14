@@ -1,4 +1,4 @@
-| [home page](README.md) | [visualizing debt](visualizing-government-debt.md) |
+| [Home Page](README.md) | [Visualizing Debt](visualizing-government-debt.md) | [Final Project Part I|(final-project-part-one.md) | [Final Project Part II](final-project-part-two.md) | [Final Project Part III](final-project-part-three.md)
 
 # Critique by Design
 
