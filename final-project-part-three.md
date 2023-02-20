@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home Page](README.md) | [Visualizing Debt](visualizing-government-debt.md) | [Assignments 3 & 4](critique-by-design.md) | [Final Project Part I](final-project-part-one.md) | [Final Project Part II](final-project-part-two.md)
 
 # Title
 Text here!
