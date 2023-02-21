@@ -15,8 +15,8 @@ We spend 1/3 of our life sleeping
 
 ![image](https://user-images.githubusercontent.com/123040438/220256700-fe02f8ae-72f8-453a-b9fe-a7810a311145.png)
 
--Not getting enough sleep, however could lower ability to learn by 40% (Sleep Foundation). 
--Sleep deprivation has been linked to an increased risk of obesity, diabetes, cardiovascular disease, high blood pressure, and depression (NIH).
+- Not getting enough sleep, however could lower ability to learn by 40% (Sleep Foundation). 
+- Sleep deprivation has been linked to an increased risk of obesity, diabetes, cardiovascular disease, high blood pressure, and depression (NIH).
 
 ![image](https://user-images.githubusercontent.com/123040438/220256792-94b0f20e-643e-409f-8921-6f15cdea1555.png)
 
@@ -62,7 +62,7 @@ Source: CDC
 ![image](https://user-images.githubusercontent.com/123040438/220258211-65575eed-8455-4e1b-889d-7d9696d1fbf3.png)
 Source: CDC
 
-### Socioeconomic Status
+### By Socioeconomic Status
 ![image](https://user-images.githubusercontent.com/123040438/220258279-e1d6f693-505b-4317-aa8b-aac7af9be158.png)
 Source: CDC
 
