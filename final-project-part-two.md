@@ -102,6 +102,8 @@ I hope to reach those who tend to struggle the most with sleep duration, which a
 
 ## Interview script
 
+I want to get feedback for the outline of content for a project I am doing that will be included on a webpage.  It should take 10-15 minutes to complete.
+
 1. Can you tell me what this is about? Goal: To see if they understand the content and what it is about.
 2. Is there anything confusing or that you would like clarification on? Goal: To see if there was anything unclear in particular that I might need to change.
 3. Is there anything notable or insightful that you gained from this? Goal: To see what parts worked best.
