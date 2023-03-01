@@ -1,4 +1,4 @@
-| [Home Page](README.md) | [Visualizing Debt](visualizing-government-debt.md) | [Assignments 3 & 4](critique-by-design.md) | [Final Project Part II](final-project-part-two.md) | [Final Project Part III](final-project-part-three.md)
+| [Home Page](README.md) | [Visualizing Government Debt](visualizing-government-debt.md) | [Critique by Design](critique-by-design.md) | [Final Project Part I](final-project-part-one.md) | [Final Project Part II](final-project-part-two.md) | [Final Project Part III](final-project-part-three)
 
 # Final Project: Part One
 
