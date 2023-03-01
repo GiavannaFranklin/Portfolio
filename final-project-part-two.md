@@ -1,6 +1,6 @@
 | [Home Page](README.md) | [Visualizing Government Debt](visualizing-government-debt.md) | [Critique by Design](critique-by-design.md) | [Final Project Part I](final-project-part-one.md) | [Final Project Part II](final-project-part-two.md) | [Final Project Part III](final-project-part-three)
 
-# Wireframes / storyboards
+# Wireframes / Storyboards
 
 ## Understanding Sleep Deprivation in the U.S.
 
