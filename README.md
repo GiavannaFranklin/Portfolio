@@ -1,7 +1,7 @@
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  
 
-- Web page URL: https://giavannafranklin.github.io/Telling-Stories-with-Data-Portfolio/
+- This Web page URL: https://giavannafranklin.github.io/Telling-Stories-with-Data-Portfolio/
 - This repository: https://github.com/GiavannaFranklin/Portfolio/
 
 # About me
