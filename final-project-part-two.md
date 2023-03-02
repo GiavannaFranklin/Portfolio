@@ -51,7 +51,7 @@ Source: CDC
 ![image](https://user-images.githubusercontent.com/123040438/220257996-4fb14f41-396f-4256-a476-777cba8a0ec4.png)
 Source: CDC
 
-### Race
+### By Race
 ![image](https://user-images.githubusercontent.com/123040438/220258151-12d9d37a-36c2-4e10-943d-c7e1127fd8f5.png)
 Source: CDC
 
@@ -96,11 +96,11 @@ For more tips and information, visit:
 
 # User research 
 
-## Target audience
+## Target Audience
 
 I hope to reach those who tend to struggle the most with sleep duration, which are high school students, ethnic minorities, and those with lower socioeconomic status. My approach was to reach out to people that I know with characteristics of the audience who would be willing to do the user research.
 
-## Interview script
+## Interview Script
 
 I want to get feedback for the outline of content for a project I am doing that will be included on a webpage.  It should take 10-15 minutes to complete.
 
@@ -111,7 +111,7 @@ I want to get feedback for the outline of content for a project I am doing that 
 5. How engaging is this?   Goal: To understand if the story seemed interesting or compelling.
 6. Any other questions or comments about this project? Goal: To gain any other insights from the interview.
 
-## Interview findings
+## Interview Findings
 
 I shared the wireframe/storyboard as a draft of my project on Shorthand. I was only able to interview 2 people. One is a Black female in her 50s, and the other is a Black male in his 50s.
 
@@ -152,7 +152,7 @@ Interview 1: The main takeaway she got from it is that sleep is important, and i
 Interview 2: Did not have any other comments.
 
 
-# Identified changes for Part III
+# Identified Changes for Part III
  
 For one of the interviews, the main focus seems to have been on the demographics and the associated health outcomes. For the other, they were more focused on the demographics and earlier sections of the story. The geographical variation wasn't mentioned in both interviews. It could be since it was closer to the end. My story could be too long or have too many data visualizations. Someone in class mentioned that I had a lot of data visualizations, so it might be best to reduce them.
 
