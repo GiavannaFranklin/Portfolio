@@ -1,31 +1,17 @@
 | [Home Page](README.md) | [Visualizing Government Debt](visualizing-government-debt.md) | [Critique by Design](critique-by-design.md) | [Final Project Part I](final-project-part-one.md) | [Final Project Part II](final-project-part-two.md) | [Final Project Part III](final-project-part-three.md)
 
 # Final Project Part III: The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+Link to final project: https://carnegiemellon.shorthandstories.com/understanding-sleep-deprivation-especially-among-high-schoolers/
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+My topic for my final project ended up focusing on understanding sleep deprivation, particularly among high schoolers. For my story, I first touched on the importance of sleep and then went into some statistics in relation to inadequate sleep prevalence among high schoolers. Next, I went on to discuss health risks associated with adequate sleep and gave a call to action for people to learn more about the effects of sleep and how to improve it. For my audience, it was initially broader, as I did not know who to best focus on. I had more data visualizations in relation to sleep deprivation for different age groups and socioeconomic statuses. I finally narrowed down my audience to be high school students since they were the ones that tend to suffer from sleep deprivation the most. Additionally, since high school students are in a development period, this topic is especially relevant.
 
-## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+In narrowing my audience, I reduced the number of visualizations so that it could be more focused on high school students. For example, the graphs on age and demographics focused mainly on high school students. For the graphs on the health risks, the data I gathered was more general in nature, but I chose the ones that were salient to high school students, such as the statistics on learning ability. I removed the graph on heart disease since that tends to occur more often during later years.
 
-Text here!
+For changes in my design choices, I added more infographics to help aid in telling the story and help make it more visually appealing.  Additionally, I decided to change one of my maps to a scatter plot (on short sleep duration and depression) to add some variety to the visualizations that I had. For my color choices on the website, I used blue as a dominant color since that is associated with sleep and used orange in graphs to represent negative health risks. After my presentation, I changed some of the colors of the background to white since I thought it looked better. I tried to be more cognizant of my color choices so that the meaning of the color wouldn’t confuse readers. For example, previously I included green, which is associated with positive things, for some of my graphs. 
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+I had some trouble with embedding some of the Tableau visualizations to look as I would have liked. For example, I had some trouble embedding the maps as I wanted, so I decided to just include the images. If I had more time, I would try to work on how to best work with Tableau in Shorthand. Also, if I had more time, I would have also liked to experiment more with design choices, as design is a weak point of mine.  
 
-Text here!
-
-## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
-
-Text here!
-
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+Overall, this project helped me think more about how to tell a narrative with data visualizations  and other visualizations as support. This project has also helped me think more about how to make a story cohesive and consistent in terms of design. I also learned that I don’t need many data visualizations, but rather a small number of them can be effective in getting the point across.
