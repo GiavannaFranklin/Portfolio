@@ -15,3 +15,7 @@ For changes in my design choices, I added more infographics to help aid in telli
 I had some trouble with embedding some of the Tableau visualizations to look as I would have liked. For example, I had some trouble embedding the maps as I wanted, so I decided to just include the images. If I had more time, I would try to work on how to best work with Tableau in Shorthand. Also, if I had more time, I would have also liked to experiment more with design choices, as design is a weak point of mine.  
 
 Overall, this project helped me think more about how to tell a narrative with data visualizations  and other visualizations as support. This project has also helped me think more about how to make a story cohesive and consistent in terms of design. I also learned that I don’t need many data visualizations, but rather a small number of them can be effective in getting the point across.
+
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
